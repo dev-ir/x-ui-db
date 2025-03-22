@@ -74,4 +74,7 @@ PRAGMA wal_checkpoint(TRUNCATE);
 3. Запустить сервис:
    ```bash
    systemctl start x-ui
-   ```  
+   ```
+## Контакты
+
+Telegram: [@DSRClient](https://t.me/DSRCLIENT)
