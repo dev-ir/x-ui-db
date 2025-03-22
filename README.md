@@ -6,10 +6,10 @@
 
 1. **اسکریپت را ذخیره کنید** در یک فایل، مثلاً `x-ui_optimize_db.py`.
 2. **با دسترسی `root` اجرا کنید**:
-   ```bash
-   git clone https://github.com/dev-ir/x-ui-db.git
-   sudo python3 x_ui_optimize_db.py
-   ```
+```bash
+git clone https://github.com/dev-ir/x-ui-db.git
+sudo python3 x_ui_optimize_db.py
+```
 
 ## 🚀 این اسکریپت چه کارهایی انجام می‌دهد؟
 
